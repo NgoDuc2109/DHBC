@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d5695ff383de0e7479d6415e07dac716
+timeCreated: 1498660312
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Candy Pop!
+  fontNames:
+  - Candy Pop!
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

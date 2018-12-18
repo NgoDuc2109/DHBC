@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8b388e0c8e40e5a468c7b4677102a939
+timeCreated: 1498561859
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Victorian
+  fontNames:
+  - Victorian
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

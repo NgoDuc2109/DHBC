@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8923e4a75eb0f9b4aa7ce0c6e50dcbf8
+timeCreated: 1499126847
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BankGothic Lt BT
+  fontNames:
+  - BankGothic Lt BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
